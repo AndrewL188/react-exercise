@@ -13,7 +13,7 @@ class App extends Component {
           shouldDisplayImage={true}
           items={['hello', 'goodbye', 'hel', 'good', 'hi']}
         />
-        //<Counter />
+        <Counter />
       </div>
     )
   }
